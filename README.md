@@ -2,9 +2,7 @@
 
 ![Random Quote Machine](https://github.com/luisrpavanelli/Random-QuoteMachine/blob/project-branch/print.png) 
 
-![GIF](https://github.com/luisrpavanelli/Random-QuoteMachine/blob/project-branch/gif.mp4)
-
-*(Replace "project-screenshot.png" with the actual screenshot of your project)*
+![GIF](https://github.com/luisrpavanelli/Random-QuoteMachine/blob/project-branch/gif.gif)
 
 ## Overview
 
