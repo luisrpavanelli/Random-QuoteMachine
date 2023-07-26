@@ -1,6 +1,10 @@
 ## Random Quote Machine
 
-![Random Quote Machine](project-screenshot.png) *(Replace "project-screenshot.png" with the actual screenshot of your project)*
+![Random Quote Machine](print.png) 
+
+![GIF](gif.mp4)
+
+*(Replace "project-screenshot.png" with the actual screenshot of your project)*
 
 ## Overview
 
@@ -10,7 +14,8 @@ The project has been implemented using a frontend framework (e.g., React) to ful
 
 ## Live Demo
 
-Try the Random Quote Machine: [Live Demo](https://your-project-url.com) *(Replace "https://your-project-url.com" with the actual URL of your working project)*
+Try the Random Quote Machine: 
+[Live Demo](https://your-project-url.com) 
 
 ## Features
 
@@ -34,8 +39,12 @@ Try the Random Quote Machine: [Live Demo](https://your-project-url.com) *(Replac
 
 - HTML
 - CSS
+- SASS
 - JavaScript
-- React (or any other frontend framework used)
+- JQuery
+- React
+- Redux
+- Bootstrap
 
 ## Dependencies
 
@@ -49,12 +58,8 @@ The main files and directories in the project are as follows:
 
 ```
 ├── index.html
-├── js
-│   └── main.js
-├── css
-│   └── style.css
-├── assets
-│   └── (any additional assets, e.g., images, icons, etc.)
+│── script.js
+│── styles.css
 └── README.md
 ```
 
