@@ -1,8 +1,6 @@
 ## Random Quote Machine
 
-![Random Quote Machine](https://github.com/luisrpavanelli/Random-QuoteMachine/blob/project-branch/print.png) 
-
-![GIF](https://github.com/luisrpavanelli/Random-QuoteMachine/blob/project-branch/gif.gif)
+![Random Quote Machine](https://github.com/luisrpavanelli/Random-QuoteMachine/blob/project-branch/gif.gif)
 
 ## Overview
 
